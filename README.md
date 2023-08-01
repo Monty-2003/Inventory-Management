@@ -11,7 +11,7 @@ Small cafes, diners, etc. are too small to purchase available sophisticated inve
 <h4>This inventory management system provides a user-friendly interface to manage inventory, analyze inventory consumption, and automate the restocking process. Every registered, paying account is provided an administrative and employee profile.</h4>
 <br>
 
-The <b>administrative</b> profile is used to make hard edits to the inventory, such as adding a new item or deleting existing items, as well as determining the item's "notification quantity" and enrolling items in automatic emails to supplier's of specificied items. The current stock of all items is presented on the admin dashboard, and customizable queries are available to generate data visualizations of item's consumptions over a user-selected time frame.
+The <b>administrative</b> profile is used to make hard edits to the inventory, such as adding a new item or deleting existing items, as well as determining the item's "notification quantity" and enrolling items in automated emails to supplier's of specificied items. The current stock of all items is presented on the admin dashboard, an inventory edit log is available on the account summary page, and customizable queries are available to generate data visualizations of item's consumptions over a user-selected time frame.
 
 The <b>employee</b> profile is used to register inventory edits as they happen. The employee profiles are granted limited access, only allowing them to register their inventory checkouts.
 
