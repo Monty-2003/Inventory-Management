@@ -18,7 +18,7 @@ The <b>employee</b> profile is used to register inventory edits as they happen. 
 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-The inventory management system is hosted at [mycafeinventory.com](https://mycafeinventory.com). Because of its active use by paying subscribers, the codebase is private. Below is the demo video that is provided to users upon account creation. Please contact <b>wholesale@buglecallcoffee</b> to request more information or purchase a subscription.
+The inventory management system is hosted at [mycafeinventory.com](https://mycafeinventory.com). Because of its active use by paying subscribers, the codebase is private. Below is the demo video that is provided to users upon account creation. Please contact <b>flw@doubletimecoffee.com</b> to request more information or purchase a subscription.
 
 <br>
 <a href="https://vimeo.com/850613991?share=copy">Click to watch demo video</a>
