@@ -1,5 +1,5 @@
 # Inventory Management System
-A Bugle Call Coffee LLC. extension site to provide small retailers with an automated inventory management system.
+A Double Time Coffee Co. extension site to provide small retailers with an automated inventory management system.
 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
