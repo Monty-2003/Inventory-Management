@@ -1,5 +1,5 @@
 # Inventory Management System
-A Double Time Coffee Co. extension site to provide small retailers with an automated inventory management system.
+<h2>A Double Time Coffee Co. extension site to provide small retailers with an automated inventory management system.</h2>
 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
